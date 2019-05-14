@@ -2,6 +2,8 @@
 
 :wave: I've just had a couple ideas for how to extend the open podcast protocols to support some interesting new things.
 
+---
+
 - **Premium Podcasts**, an open way to support paid and exclusive podcast episodes.
 
   [Read the fuller concept here &rarr;](premium.md)
