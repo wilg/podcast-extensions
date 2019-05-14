@@ -23,7 +23,7 @@ Also, don't forget about video podcasts. Maybe premium podcasts could help make 
 
 This protocol works by splitting your podcasts into two pieces: the _public feed_ and the _private feed_.
 
-Anyone can listen to the episodes in the public feed, and they can optionally also authenticate to access the private feed too. Podcast players are free to interleave these two streams of episodes in whatever ways make sense.
+Anyone can listen to the episodes in the public feed, and they can optionally authenticate to access the private feed too. Podcast players are free to interleave these two streams of episodes in whatever ways make sense.
 
 #### The Public Feed
 
