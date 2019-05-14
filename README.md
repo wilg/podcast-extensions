@@ -4,7 +4,7 @@
 
 ---
 
-- **Premium Podcasts**, an open way to support paid and exclusive podcast episodes.
+- :star: **Premium Podcasts**, an open way to support paid and exclusive podcast episodes.
 
   [Read the fuller concept here &rarr;](premium.md)
 - **Episode Tags**, a simple way for podcast creators to organize their own episodes, and for apps to present better UIs for organizing them:
