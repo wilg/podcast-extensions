@@ -9,7 +9,7 @@ There's multiple models this simple protocol can support:
 - A podcast that is entirely paid, with an optional sample episode or audio trailer.
 - A podcast that contains occasional premium episodes.
 - A podcast that allows you to upgrade to a paid ad-free version of the same episodes.
-- A podcast that provides paid access to back episodes, but the most recent episodes are free.
+- A podcast that provides paid access to back catalog, but the most recent episodes are free.
 - A podcast that has exclusive episodes gated by something other than money.
   - For example: a podcast associated with a video game where the top scorers get exclusive content.
 
