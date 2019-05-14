@@ -106,3 +106,4 @@ The app then stores the credentials and uses it to authenticate to the `auth:pri
 ## Potential Extensions
 
 - Allow a way of specifying that a premium episode should "replace" a non-premium episode (such as if the premium version of the show is ad-free).
+- Figure out a way to allow players to show premium episodes to non-subscribers as a tantalizing tease!
