@@ -13,7 +13,7 @@ There's multiple models this simple protocol can support:
 - A podcast that has exclusive episodes gated by something other than money.
   - For example: a podcast associated with a video game where the top scorers get exclusive content.
 
-Also, don't forget about video podcasts. Maybe premium podcasts with video could be a nice open replacement for YouTube.
+Also, don't forget about video podcasts. Maybe premium podcasts could make that a thing again?
 
 > **Sidebar: Don't premium podcasts already exist?**
 >
