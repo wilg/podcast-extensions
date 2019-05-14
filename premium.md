@@ -33,6 +33,8 @@ The _public feed_ is the public face of your podcast. It's a normal podcast with
 
 2. This feed contains special markup to allow podcast apps to find and authenticate to the _private feed_.
 
+This also makes the protocol backwards compatible, since existing podcasts are just podcasts with only a public feed. That also means existing podcasts could seamlessly introduce premium content without needing listeners to resubscribe somewhere else or have multiple podcasts.
+
 #### The Private Feed
 
 The _private feed_  contains all your premium episodes and is protected by HTTP Basic Authentication.
